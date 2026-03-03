@@ -1,7 +1,6 @@
 # Class-Test (30-10-2025) Attempt Review
 
 - Duration: 30 mins
-- Grade:7.50 (92%)
 
 ---
 
@@ -265,7 +264,7 @@
 - a. \(z = 0\)
 - b. \(z = 1\)
 - c. \(z = -1\)
-- d. \(z = \infty\)
+- d. \(z = \infty)
 
 ---
 

@@ -126,8 +126,12 @@
 ### 作业要求
 1. Markov decision process (50%)
 - 3×3 maze environment: agent starts at S, seeks path to G
+
 - Rewards: -1 (blue grid), -10 (red X), +10 (goal G)
+
 - Use Value Iteration to find Optimal Policy for each state
+
+  ![img](img.jpg)
 2. Programming practice (50%)
 - Describe LunarLander-v2 environment: define state, action, reward
 - Interact with environment manually
