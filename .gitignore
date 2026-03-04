@@ -1,0 +1,5 @@
+# 忽略 Windows 下载标注文件
+*:Zone.Identifier
+# 忽略其他系统冗余
+Thumbs.db
+.DS_Store
